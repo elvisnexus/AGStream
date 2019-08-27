@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Home"
+            android:icon="@drawable/ic_home_white_24dp"
+            android:title="@string/home" />
+
+        <item
+            android:id="@+id/nav_Stream"
+            android:icon="@drawable/ic_stream_24dp"
+            android:title="@string/stream"
+            />
+
+        <item
+            android:id="@+id/nav_Donate"
+            android:icon="@drawable/ic_attach_money_black_24dp"
+            android:title="@string/donate" />
+
+        <item
+            android:id="@+id/nav_credits"
+            android:icon="@drawable/ic_copyright_black_24dp"
+            android:title="@string/cred"
+            />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/ic_info_outline_black_24dp"
+            android:title="@string/inf" />
+
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="@string/exit" />
+    </group>
+
+</menu>

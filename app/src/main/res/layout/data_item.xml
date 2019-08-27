@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    app:cardElevation="10dp">
+
+
+    <com.battleent.ribbonviews.RibbonLayout
+        android:id="@+id/ribbonLayout"
+        android:layout_width="match_parent"
+        android:layout_height="235dp"
+        android:padding="4dp"
+
+        app:bottom_height="80"
+        app:bottom_padding="5"
+        app:bottom_ribbonColor="#4F0E0D0E"
+        app:bottom_textColor="@android:color/white"
+        app:bottom_textSize="16"
+
+        app:header_padding="10"
+        app:header_ribbonRadius="6"
+        app:header_textSize="14"
+
+        app:show_bottom="true"
+        app:show_header="true">
+
+            <ImageView
+                android:id="@+id/image_data"
+                android:scaleType="fitXY"
+                android:layout_width="match_parent"
+                android:contentDescription="@string/data"
+                android:layout_height="match_parent" />
+
+    </com.battleent.ribbonviews.RibbonLayout>
+
+
+</android.support.v7.widget.CardView>

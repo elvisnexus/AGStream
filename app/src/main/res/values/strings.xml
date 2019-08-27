@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AG Stream</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="AGNig">Assemblies of God Nigeria</string>
+    <string name="AGSlogan">All the Gospel</string>
+
+
+    <string name="cred">Credits</string>
+    <string name="abt">About</string>
+    <string name="inf">Info</string>
+    <string name="home">Home</string>
+    <string name="exit">Exit</string>
+    <string name="donate">Donate</string>
+    <string name="stream">Stream</string>
+
+    <string name="dummyText">This is a string resource for the content description for our textView control and it works really nice in this environment. This is a string resource for the content description for our textView control and it works really nice in this environment. This is a string resource for the content description for our textView control and it works really nice in this environment. This is a string resource for the content description for our textView control and it works really nice in this environment. This is a string resource for the content description for our textView control and it works really nice in this environment.</string>
+
+    <string name="data">Stream Data</string>
+    <string name="ex">X</string>
+    <string name="devPhoto">Developer\'s Photo</string>
+    <string name="imgLoc">Location</string>
+    <string name="header">PROJECTS</string>
+    <string name="progressValue">10</string>
+    <string name="progress">In-Progress</string>
+    <string name="clients">Clients</string>
+    <string name="clientsValue">15</string>
+    <string name="completedValue">5</string>
+    <string name="completed">Completed</string>
+
+    <string name="ceo">CEO, iNexus Systems &amp; Solutions.</string>
+    <string name="developer">Developed By: iNexus Elvis</string>
+    <string name="email">elvisnexus@live.com</string>
+    <string name="location">Benin City, Nigeria.</string>
+    <string name="phone">+234&#8211;816&#8211;178&#8211;4341</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
